@@ -1,0 +1,54 @@
+/*Adnan Altimeemy*/
+
+Start
+Set the largest number to 0
+request a positive number from the user
+check number greater than 0 
+if True:
+    store number in a list
+if False:
+   if the number equals zero
+      get the largest number from the list to assign to the largest number
+   else if the number is less than 0 
+      go to ask the user to input a positive number
+End
+
+Start
+request the user's first name 
+Set first_name to first name
+print first_name and "Hello World" 
+End
+
+Start
+Set count to zero 
+Set the total to zero
+loop:
+    read the number and add it to the total
+    increase count by 1
+    if all numbers have been read 
+         exit loop
+average = total / count
+End
+
+
+Start
+Create an empty list
+read grocery lists and assign them to a list
+reorder the list in alphabetical order
+print list
+End
+
+Start
+Set S, A and P to 0
+get X and Y values
+Set S = X+Y
+Set A = S/2
+Set P = X*Y
+Write S, A and P
+End
+
+
+
+
+
+
